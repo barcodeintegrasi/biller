@@ -1,0 +1,8 @@
+{
+    "name": "barcodeintegrasi/biller",
+    "description": "API biller",
+    "require": {
+        "php": "^7.2",
+        "another-vendor/package": "1.*"
+    }
+}
